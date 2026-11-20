@@ -73,6 +73,7 @@ curl -s -X POST "https://api.apify.com/v2/acts/guiltless_baluster~india-corporat
 - [How to get BSE corporate announcements via API (2026)](https://lawrekak.github.io/india-stock-filings-api/2026/11/19/bse-corporate-announcements-api.html)
 - [Build a Telegram alert bot for BSE results & order wins](https://lawrekak.github.io/india-stock-filings-api/2026/11/19/telegram-stock-alert-bot-bse-nse.html)
 - [BSE announcements into Google Sheets automatically](https://lawrekak.github.io/india-stock-filings-api/2026/11/19/bse-announcements-google-sheets.html)
+- [NSE corporate announcements in Python: what works from the cloud](https://lawrekak.github.io/india-stock-filings-api/2026/11/20/nse-corporate-announcements-python.html)
 
 ## FAQ
 
