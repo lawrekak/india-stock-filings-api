@@ -60,6 +60,15 @@ curl -s -X POST "https://api.apify.com/v2/acts/guiltless_baluster~india-corporat
 | `onlyNew` + `stateKey` | `true`, `"my-watchlist"` | Alert mode, returns only rows not seen before |
 | `maxResults` | `1000` | Hard stop |
 
+## Also available: corporate actions & results calendar
+
+Need **upcoming dividends (₹/share), bonus issues, stock splits, rights, buybacks** or **which companies report results this week**? Use the companion API:
+👉 https://apify.com/guiltless_baluster/india-corporate-actions-calendar?utm_source=github&utm_medium=readme ($3 per 1,000 records)
+
+```json
+{ "mode": "corporateActions", "actionTypes": ["dividend"], "minDividendPerShare": 5, "daysAhead": 30 }
+```
+
 ## Use cases
 
 - **Algo trading**: event-driven signals on results, buybacks, order wins, pledges
