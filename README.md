@@ -83,6 +83,7 @@ Need **upcoming dividends (₹/share), bonus issues, stock splits, rights, buyba
 - [Build a Telegram alert bot for BSE results & order wins](https://lawrekak.github.io/india-stock-filings-api/2026/11/19/telegram-stock-alert-bot-bse-nse.html)
 - [BSE announcements into Google Sheets automatically](https://lawrekak.github.io/india-stock-filings-api/2026/11/19/bse-announcements-google-sheets.html)
 - [NSE corporate announcements in Python: what works from the cloud](https://lawrekak.github.io/india-stock-filings-api/2026/11/20/nse-corporate-announcements-python.html)
+- [Upcoming dividends, bonus & splits in India: build a corporate actions calendar](https://lawrekak.github.io/india-stock-filings-api/2026/11/21/india-corporate-actions-calendar-dividends-bonus-splits.html)
 
 ## FAQ
 
